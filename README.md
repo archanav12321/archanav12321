@@ -68,6 +68,6 @@ _Designed real-time sensor data processing for mobility & fiber networks._
 ---
 
 ## 📊 **GitHub Activity**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archanav12321&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archanv12321&layout=compact&theme=radical)
 
 
