@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/archanav12321/archanav12321/main/White Minimalist Corporate Personal Profile LinkedIn Banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Archana Vellingiri Raja!
 
 🚀 Passionate **AI/ML Engineer & Full-Stack Developer**  
