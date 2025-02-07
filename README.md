@@ -6,14 +6,6 @@
 💡 Love solving **complex problems & optimizing systems**  
 🌱 Currently improving **DSA, DevOps & Cloud Computing**  
 🎯 Looking for **AI, ML, or Software Engineering roles**  
-
----
-
-## 🔥 **Coding Profiles**
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername) (50+ Repositories)  
-- **LeetCode**: [leetcode.com/yourusername](https://leetcode.com/yourusername) (1000+ problems solved, Top X%)    
-- **HackerRank**: [hackerrank.com/yourusername](https://hackerrank.com/yourusername) (5-star in Python, Java)  
-
 ---
 
 ## 📌 **Featured Projects**
