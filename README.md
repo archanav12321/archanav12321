@@ -68,6 +68,6 @@ _Designed real-time sensor data processing for mobility & fiber networks._
 ---
 
 ## 📊 **GitHub Activity**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archanv12321&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archanav12321&layout=compact&theme=radical)
 
 
