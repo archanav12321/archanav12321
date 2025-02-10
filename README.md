@@ -22,7 +22,7 @@ _Aquaculture framework using EfficientNet-B0, achieving 90% precision._
 🔹 **[AI-Enabled B2B Invoice Management](https://github.com/yourusername/B2B-Invoice-Management)**  
 _A cloud-based invoice processing system using AI & Flask._  
 
-🔹 **[Comprehensive Blood Bank Management System](https://github.com/yourusername/Blood-Bank-Management)**  
+🔹 **[BloodBridge---Connecting-Donors-Patients](https://github.com/archanav12321/BloodBridge---Connecting-Donors-Patients/blob/master/README.md)**  
 _A full-stack system for real-time donor & recipient management._  
 
 🔹 **[Fitness Tracker Appplication](https://github.com/archanav12321/Fitness-App)**  
