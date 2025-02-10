@@ -25,6 +25,9 @@ _A cloud-based invoice processing system using AI & Flask._
 🔹 **[Comprehensive Blood Bank Management System](https://github.com/yourusername/Blood-Bank-Management)**  
 _A full-stack system for real-time donor & recipient management._  
 
+🔹 **[Fitness Tracker Appplication](https://github.com/archanav12321/Fitness-App)**  
+_A cloud-based invoice processing system using AI & Flask._  
+
 ---
 
 ### ☁ **DevOps & Cloud Projects**
