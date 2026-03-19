@@ -1,73 +1,75 @@
+<h1 align="center">Hi, I'm Archana Vellingiri Raja 👋</h1>
 
+<h3 align="center">Full-Stack Developer | AI/ML Engineer | Cloud Engineer</h3>
 
-# 👋 Hi, I'm Archana Vellingiri Raja!
+<p align="center">
+  Master's in Computer Science from Sacred Heart University <br />
+  Building scalable cloud-native applications and intelligent systems
+</p>
 
-🚀 Passionate **AI/ML Engineer & Full-Stack Developer**  
-💡 Love solving **complex problems & optimizing systems**  
-🌱 Currently improving **DSA, DevOps & Cloud Computing**  
-🎯 Looking for **AI, ML, or Software Engineering roles**  
----
-
-## 📌 **Featured Projects**
-### 🧠 **AI & Machine Learning Projects**
-🔹 **[Breast Cancer Detection](https://github.com/yourusername/Breast-Cancer-Detection)**  
-_A deep learning-based cancer detection system using CNN & TensorFlow._  
-
-🔹 **[Predicting White Spot Syndrome Virus in Shrimp](https://github.com/yourusername/Shrimp-Disease-Prediction)**  
-_Aquaculture framework using EfficientNet-B0, achieving 90% precision._  
+<p align="center">
+  <a href="https://archanav-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/archanav99">LinkedIn</a> •
+  <a href="mailto:archana999v@gmail.com">Email</a>
+</p>
 
 ---
 
-### 🌍 **Web & Full-Stack Development Projects**
-🔹 **[AI-Enabled B2B Invoice Management](https://github.com/yourusername/B2B-Invoice-Management)**  
-_A cloud-based invoice processing system using AI & Flask._  
+## About Me
 
-🔹 **[BloodBridge---Connecting-Donors-Patients](https://github.com/archanav12321/BloodBridge---Connecting-Donors-Patients/blob/master/README.md)**  
-_A full-stack system for real-time donor & recipient management._  
-
-🔹 **[Fitness Tracker Appplication](https://github.com/archanav12321/Fitness-App)**  
-_A cloud-based invoice processing system using AI & Flask._  
+- Full-Stack Developer and AI/ML Engineer with a Master's in Computer Science
+- Interested in software engineering, AI/ML, cloud, and scalable systems
+- Open to full-time Software Engineering and AI roles
+- Currently strengthening projects in full-stack, machine learning, and cloud deployment
 
 ---
 
-### ☁ **DevOps & Cloud Projects**
-🔹 **[CI/CD Pipeline Using GCP & Kubernetes](https://github.com/yourusername/GCP-CI-CD-Pipeline)**  
-_Designed an automated pipeline reducing deployment time by 60%._  
+## Featured Projects
 
-🔹 **[Containerized Web Service Deployment](https://github.com/yourusername/Containerized-Web-App)**  
-_Containerized a Python web app with Docker & Kubernetes for high scalability._  
+### AI / Machine Learning
+- **Breast Cancer Detection** — CNN and TensorFlow-based medical image classification
+- **Shrimp Disease Prediction** — EfficientNet-B0 model for aquaculture disease detection
 
----
+### Full-Stack Development
+- **AI-Enabled B2B Invoice Management** — React + Flask platform for invoice automation and fraud detection
+- **BloodBridge** — Real-time donor and patient management system
+- **Fitness Tracker Application** — Activity tracking and analytics platform
 
-### 📊 **Data Analytics & Optimization Projects**
-🔹 **[Stock Market Analysis](https://github.com/yourusername/Stock-Market-Analysis)**  
-_Predictive models improving stock trend forecasting accuracy by 20%._  
-
-🔹 **[IoT-Based Data Analytics & Optimization](https://github.com/yourusername/IoT-Data-Optimization)**  
-_Designed real-time sensor data processing for mobility & fiber networks._  
-
----
-
-## 🛠️ **Tech Stack**
-💻 **Languages:** Python, Java, C++, JavaScript, SQL, R  
-🌐 **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask, Django  
-☁ **Cloud & DevOps:** Google Cloud Platform, Docker, Kubernetes, Jenkins  
-📊 **AI/ML:** TensorFlow, Keras, Pandas, NumPy, Scikit-learn  
-🔧 **Tools:** Git, GitHub, REST APIs, Tableau, Power BI  
+### Cloud & DevOps
+- **CI/CD Pipeline with GCP & Kubernetes** — Automated deployment workflow
+- **Containerized Web Application** — Docker and Kubernetes-based deployment
 
 ---
 
-## 📫 **Connect With Me**
-📍 **LinkedIn**: [linkedin.com/in/archanav09](https://linkedin.com/in/archanav09)  
-📧 **Email**: archana999v@gmail.com  
-🌍 **Portfolio**: _[Coming Soon...]_  
+## Tech Stack
+
+**Languages**  
+Python • JavaScript • TypeScript • Java • SQL
+
+**Frontend**  
+React • Tailwind CSS • HTML • CSS
+
+**Backend**  
+Node.js • Express.js • Flask • REST APIs
+
+**Cloud & DevOps**  
+AWS • Azure • GCP • Docker • Kubernetes • GitHub Actions
+
+**AI / ML**  
+TensorFlow • Scikit-learn • Pandas • NumPy
 
 ---
 
+## Connect With Me
 
-## 📊 GitHub Contribution Stats
+- **Portfolio:** https://archanav-portfolio.vercel.app/
+- **LinkedIn:** https://linkedin.com/in/archanav99
+- **Email:** archana999v@gmail.com
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archanav12321&theme=radical)
+---
 
+## GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archanav12321&theme=radical" alt="GitHub Streak" />
+</p>
