@@ -53,6 +53,7 @@ User-centric fitness tracking system with analytics, activity monitoring, and pe
 Designed an automated deployment pipeline using **Google Cloud Platform, Docker, and Kubernetes**, reducing manual deployment effort and improving reliability.
 
 🔹 **Containerized Web Application**
+
 Built and deployed scalable web services using **Docker and Kubernetes**, enabling efficient resource utilization and cloud-based deployment.
 
 ---
