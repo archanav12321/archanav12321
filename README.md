@@ -22,22 +22,38 @@
 - Currently focused on building production-level projects with real-world impact  
 
 ---
-
-## 🧩 Featured Projects
+## 🚀 Featured Projects
 
 ### 🧠 AI / Machine Learning
-- **Breast Cancer Detection** — CNN-based medical image classification with high accuracy  
-- **Shrimp Disease Prediction** — EfficientNet-B0 model for aquaculture disease detection  
+
+🔹 **Breast Cancer Detection**  
+CNN-based medical imaging pipeline using image enhancement, segmentation (Watershed & Canny), and deep learning classification achieving up to **99.67% accuracy**.
+
+🔹 **Shrimp Disease Prediction**  
+Deep learning model using **EfficientNet-B0** for aquaculture disease detection, achieving high precision in identifying infected samples.
+
+---
 
 ### 🌐 Full-Stack Development
-- **AI-Enabled B2B Invoice Management** — React + Flask system for invoice automation and fraud detection  
-- **BloodBridge** — Real-time donor and patient coordination platform  
-- **Fitness Tracker Application** — Activity tracking with analytics and user insights  
+
+🔹 **AI-Enabled B2B Invoice Management**  
+Full-stack application built with **React + Flask**, integrating machine learning models for invoice prediction, anomaly detection, and automated workflows.
+
+🔹 **BloodBridge — Donor & Patient Platform**  
+Real-time system for connecting blood donors and patients, featuring dynamic data handling, user management, and responsive UI for emergency coordination.
+
+🔹 **Fitness Tracker Application**  
+User-centric fitness tracking system with analytics, activity monitoring, and performance insights using full-stack architecture.
+
+---
 
 ### ☁️ Cloud & DevOps
-- **CI/CD Pipeline (GCP + Kubernetes)** — Automated deployment workflow  
-- **Containerized Web Application** — Docker + Kubernetes-based scalable deployment  
 
+🔹 **CI/CD Pipeline (GCP + Kubernetes)**  
+Designed an automated deployment pipeline using **Google Cloud Platform, Docker, and Kubernetes**, reducing manual deployment effort and improving reliability.
+
+🔹 **Containerized Web Application**  
+Built and deployed scalable web services using **Docker and Kubernetes**, enabling efficient resource utilization and cloud-based deployment.
 ---
 
 ## 🛠 Tech Stack
